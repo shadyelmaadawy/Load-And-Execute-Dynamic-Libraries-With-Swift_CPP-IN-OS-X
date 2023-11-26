@@ -1,17 +1,19 @@
 # Load And Execute Dynamic Libraries With Swift/CPP In OSX
 
-### *Here's to ones who push the human race forward!*
+### *Here's to the ones who push the human race forward!*
 
 There's not much talking, technical details have been explained before, just a greetings to those out there, As I said in my [previous article](https://github.com/shadyelmaadawy/Load-Dex-Classes-In-Memory), I will Implement a loader with Swift.. a few lines of codes, but honestly, it cost me a lot of time!
 
-#### Note:
+## Note:
 
 The dynamic library is written with my tank, and the loader is written with my submarine.
+
+Also, this is an Intel-based Compiled Binary/Implementation, I donna know what the result in M-Family, 
+Maybe work or lead to an OS crash ( due to differences in CPU Architecture ), compile your own binaries.
 
 ## Proof-Of-Concept:
 
 ![](https://github.com/shadyelmaadawy/Load-And-Execute-Dynamic-Libraries-With-Swift_CPP-IN-OS-X/blob/master/PoC.gif)
-
 
 ## **IOS/Custom Memory Loader**:
 
